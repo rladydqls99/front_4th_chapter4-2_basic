@@ -3,7 +3,7 @@
   src: url(fonts/Heebo-Light.ttf) format("truetype");
   font-display: swap;
   font-weight: 300;
-  font-style: normal;
+  font-style: light;
 }
 @font-face {
   font-family: "Heebo";
@@ -17,15 +17,15 @@
   font-family: "Heebo";
   src: url(fonts/Heebo-Medium.ttf) format("truetype");
   font-display: swap;
-  font-weight: 500;
-  font-style: normal;
+  font-weight: 600;
+  font-style: medium;
 }
 @font-face {
   font-family: "Heebo";
   src: url(fonts/Heebo-Bold.ttf) format("truetype");
   font-display: swap;
   font-weight: 700;
-  font-style: normal;
+  font-style: bold;
 }
 
 body {
